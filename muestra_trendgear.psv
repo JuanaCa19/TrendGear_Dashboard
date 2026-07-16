@@ -1,0 +1,16 @@
+customer_id|name|email|product_purchased|purchase_date|amount_spent|age|city|payment_method|last_login_date|membership_status
+1001|Laura Gómez|laura.gomez@mailinator.com|Wireless Mouse|2025-03-14|29.99|27|Bogotá|Credit Card|2025-03-20|Gold
+1002|Carlos Pérez|carlos.perez@mailinator.com|Mechanical Keyboard|2025-04-02|89.50|34|Medellín|PayPal|2025-04-10|Silver
+1003|Ana Torres|ana.torres@mailinator.com|4K Monitor|2025-02-18|249.99|41|Cali|Debit Card|2025-05-01|Gold
+1004|Diego Ramírez|diego.ramirez@mailinator.com|USB-C Hub|2025-01-25|19.99|22|Cúcuta|Credit Card|2025-02-01|Bronze
+1005|Sofía Martínez|sofia.martinez@mailinator.com|Noise Cancelling Headphones|2025-05-10|159.00|29|Barranquilla|PayPal|2025-05-15|Silver
+1006|Andrés Rojas|andres.rojas@mailinator.com|Gaming Chair|2025-03-30|320.00|38|Bogotá|Credit Card|2025-04-05|Gold
+1007|Valentina López|valentina.lopez@mailinator.com|Smartwatch|2025-04-22|199.90|25|Medellín|Debit Card|2025-05-02|Bronze
+1008|Miguel Herrera|miguel.herrera@mailinator.com|Laptop Stand|2025-02-05|39.99|45|Cali|PayPal|2025-02-12|Silver
+1009|Camila Ríos|camila.rios@mailinator.com|Wireless Charger|2025-05-18|24.99|31|Cúcuta|Credit Card|2025-05-20|Bronze
+1010|Santiago Vargas|santiago.vargas@mailinator.com|External SSD 1TB|2025-01-12|129.99|36|Barranquilla|Debit Card|2025-01-18|Gold
+1011|Isabella Castro|isabella.castro@mailinator.com|Webcam HD|2025-03-08|54.90|23|Bogotá|PayPal|2025-03-15|Bronze
+1012|Juan Morales|juan.morales@mailinator.com|Bluetooth Speaker|2025-04-14|69.99|48|Medellín|Credit Card|2025-04-20|Silver
+1013|Daniela Ortiz|daniela.ortiz@mailinator.com|Graphics Tablet|2025-02-27|179.50|33|Cali|Debit Card|2025-03-01|Gold
+1014|Felipe Guzmán|felipe.guzman@mailinator.com|Router Wi-Fi 6|2025-05-05|99.99|40|Cúcuta|PayPal|2025-05-09|Silver
+1015|Mariana Silva|mariana.silva@mailinator.com|Portable Monitor|2025-01-30|189.00|26|Barranquilla|Credit Card|2025-02-03|Bronze

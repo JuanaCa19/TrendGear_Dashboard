@@ -1,0 +1,101 @@
+customer_id,name,email,product_purchased,purchase_date,amount_spent,age,city,payment_method,last_login_date,membership_status
+1001,Gabriela Ramírez,gabriela.ramirez1001@mailinator.com,Wireless Mouse,2025-03-04,33.54,35,Bucaramanga,PayPal,2025-03-11,Bronze
+1002,Natalia Guzmán,natalia.guzman1002@mailinator.com,Mechanical Keyboard,2025-02-25,52.09,36,Barranquilla,PayPal,2025-03-04,Bronze
+1003,Sebastián López,sebastian.lopez1003@mailinator.com,Ring Light,2025-04-25,36.78,29,Pereira,Credit Card,2025-05-13,Gold
+1004,Felipe Castro,felipe.castro1004@mailinator.com,Wireless Charger,2025-03-28,18.11,50,Bogotá,Debit Card,2025-03-31,Bronze
+1005,Juan Morales,juan.morales1005@mailinator.com,Docking Station,2025-01-12,83.81,28,Cúcuta,Credit Card,2025-02-04,Gold
+1006,Santiago Beltrán,santiago.beltran1006@mailinator.com,Bluetooth Speaker,2025-06-30,74.64,34,Bogotá,PayPal,2025-06-30,Bronze
+1007,Luciana Vargas,luciana.vargas1007@mailinator.com,4K Monitor,2025-01-26,299.74,30,Cali,Credit Card,2025-02-07,Silver
+1008,Juan López,juan.lopez1008@mailinator.com,Wireless Charger,2025-06-24,29.04,45,Bogotá,PayPal,2025-06-30,Gold
+1009,Andrés Suárez,andres.suarez1009@mailinator.com,Laptop Stand,2025-04-08,24.90,45,Barranquilla,Credit Card,2025-04-16,Gold
+1010,Isabella Pérez,isabella.perez1010@mailinator.com,Laptop Stand,2025-03-22,44.65,32,Cali,Credit Card,2025-04-03,Bronze
+1011,Ricardo Restrepo,ricardo.restrepo1011@mailinator.com,Webcam HD,2025-05-08,40.63,42,Medellín,Debit Card,2025-05-20,Bronze
+1012,Miguel Suárez,miguel.suarez1012@mailinator.com,Ring Light,2025-05-30,30.51,24,Barranquilla,Debit Card,2025-06-12,Silver
+1013,Miguel Martínez,miguel.martinez1013@mailinator.com,Mechanical Numpad,2025-01-13,39.81,42,Pereira,PayPal,2025-02-09,Silver
+1014,Alejandro Torres,alejandro.torres1014@mailinator.com,Graphics Tablet,2025-04-30,157.24,41,Cali,PayPal,2025-05-16,Bronze
+1015,Tomás Ramírez,tomas.ramirez1015@mailinator.com,Ring Light,2025-06-14,50.04,40,Cúcuta,Credit Card,2025-06-24,Gold
+1016,Sara Ríos,sara.rios1016@mailinator.com,Mechanical Numpad,2025-05-10,47.86,39,Bogotá,PayPal,2025-06-08,Silver
+1017,Valeria Mendoza,valeria.mendoza1017@mailinator.com,Docking Station,2025-04-06,77.90,44,Barranquilla,Credit Card,2025-04-30,Gold
+1018,Isabella Cárdenas,isabella.cardenas1018@mailinator.com,Wireless Mouse,2025-04-03,17.80,51,Pereira,Debit Card,2025-05-01,Bronze
+1019,Carlos Herrera,carlos.herrera1019@mailinator.com,Laptop Backpack,2025-01-22,86.82,29,Pereira,PayPal,2025-02-14,Bronze
+1020,Sofía Cárdenas,sofia.cardenas1020@mailinator.com,Ring Light,2025-05-16,26.61,33,Barranquilla,Debit Card,2025-06-12,Bronze
+1021,Ricardo Suárez,ricardo.suarez1021@mailinator.com,Smartwatch,2025-04-13,242.59,27,Barranquilla,Debit Card,2025-05-04,Bronze
+1022,Miguel Herrera,miguel.herrera1022@mailinator.com,4K Monitor,2025-05-31,227.33,25,Medellín,PayPal,2025-06-17,Bronze
+1023,Laura Torres,laura.torres1023@mailinator.com,Mechanical Keyboard,2025-01-09,66.03,27,Cali,PayPal,2025-02-05,Silver
+1024,Valentina Suárez,valentina.suarez1024@mailinator.com,Noise Cancelling Headphones,2025-05-27,184.04,42,Cúcuta,Credit Card,2025-06-14,Silver
+1025,Nicolás Guzmán,nicolas.guzman1025@mailinator.com,Smartwatch,2025-06-18,118.87,27,Pereira,PayPal,2025-06-30,Bronze
+1026,Tomás Ramírez,tomas.ramirez1026@mailinator.com,Mechanical Keyboard,2025-03-28,78.18,40,Pereira,Credit Card,2025-04-22,Bronze
+1027,Valentina López,valentina.lopez1027@mailinator.com,Ring Light,2025-04-19,37.94,31,Bogotá,Debit Card,2025-04-24,Gold
+1028,Diego Pérez,diego.perez1028@mailinator.com,Ring Light,2025-01-24,53.44,39,Pereira,Credit Card,2025-02-22,Bronze
+1029,Felipe Cárdenas,felipe.cardenas1029@mailinator.com,Gaming Mousepad,2025-04-13,13.21,41,Cúcuta,Debit Card,2025-05-11,Silver
+1030,Santiago Guzmán,santiago.guzman1030@mailinator.com,Ring Light,2025-05-05,46.47,36,Medellín,Debit Card,2025-05-09,Bronze
+1031,Carlos Restrepo,carlos.restrepo1031@mailinator.com,Ring Light,2025-03-22,22.44,42,Pereira,PayPal,2025-03-23,Bronze
+1032,Carlos Mendoza,carlos.mendoza1032@mailinator.com,4K Monitor,2025-01-18,299.19,36,Bogotá,PayPal,2025-02-06,Bronze
+1033,Daniela Ramírez,daniela.ramirez1033@mailinator.com,Laptop Backpack,2025-06-02,44.77,26,Barranquilla,PayPal,2025-06-03,Gold
+1034,Isabella Ríos,isabella.rios1034@mailinator.com,Smartwatch,2025-03-22,233.95,26,Cali,Debit Card,2025-03-29,Bronze
+1035,Tomás Vargas,tomas.vargas1035@mailinator.com,Portable Monitor,2025-01-19,164.26,13,Bogotá,Credit Card,2025-01-19,Gold
+1036,Valentina Mendoza,valentina.mendoza1036@mailinator.com,Wireless Charger,2025-03-31,17.65,41,Bogotá,Credit Card,2025-04-28,Silver
+1037,Santiago Rojas,santiago.rojas1037@mailinator.com,Portable Monitor,2025-06-30,236.72,13,Bucaramanga,PayPal,2025-06-30,Bronze
+1038,Tomás Suárez,tomas.suarez1038@mailinator.com,External SSD 1TB,2025-01-27,154.54,15,Medellín,Debit Card,2025-02-26,Bronze
+1039,Sara Ramírez,sara.ramirez1039@mailinator.com,Ring Light,2025-03-14,26.22,35,Bucaramanga,PayPal,2025-04-02,Silver
+1040,Paula Cárdenas,paula.cardenas1040@mailinator.com,Wireless Charger,2025-01-14,33.11,40,Bucaramanga,Debit Card,2025-01-16,Silver
+1041,Carlos Gómez,carlos.gomez1041@mailinator.com,Webcam HD,2025-06-13,68.56,38,Bucaramanga,Debit Card,2025-06-21,Gold
+1042,Laura Ramírez,laura.ramirez1042@mailinator.com,4K Monitor,2025-06-26,312.31,41,Medellín,PayPal,2025-06-30,Bronze
+1043,Valeria Morales,valeria.morales1043@mailinator.com,Laptop Backpack,2025-04-21,63.15,41,Pereira,Credit Card,2025-04-25,Silver
+1044,Valentina Herrera,valentina.herrera1044@mailinator.com,USB-C Hub,2025-05-24,22.07,35,Pereira,Debit Card,2025-06-21,Gold
+1045,David Martínez,david.martinez1045@mailinator.com,Laptop Stand,2025-02-15,45.94,28,Cali,Debit Card,2025-03-15,Gold
+1046,Esteban Herrera,esteban.herrera1046@mailinator.com,Wireless Charger,2025-06-29,18.18,35,Cúcuta,Credit Card,2025-06-30,Silver
+1047,Miguel López,miguel.lopez1047@mailinator.com,Portable Monitor,2025-02-28,168.95,38,Cali,Debit Card,2025-03-07,Bronze
+1048,Luciana Ríos,luciana.rios1048@mailinator.com,Bluetooth Speaker,2025-04-13,78.49,33,Pereira,PayPal,2025-05-04,Silver
+1049,Laura Ramírez,laura.ramirez1049@mailinator.com,Wireless Charger,2025-03-09,18.57,40,Bucaramanga,Debit Card,2025-03-10,Silver
+1050,Alejandro Mendoza,alejandro.mendoza1050@mailinator.com,USB-C Hub,2025-05-28,22.70,39,Cali,Credit Card,2025-06-03,Gold
+1051,Felipe Gómez,felipe.gomez1051@mailinator.com,Mechanical Numpad,2025-05-18,52.77,30,Bucaramanga,Credit Card,2025-06-08,Silver
+1052,Felipe Torres,felipe.torres1052@mailinator.com,Webcam HD,2025-06-19,61.16,18,Bogotá,PayPal,2025-06-30,Silver
+1053,Paula Vargas,paula.vargas1053@mailinator.com,Router Wi-Fi 6,2025-06-28,86.09,27,Bucaramanga,Debit Card,2025-06-30,Gold
+1054,David Rojas,david.rojas1054@mailinator.com,Docking Station,2025-04-14,111.22,31,Pereira,Credit Card,2025-05-01,Silver
+1055,Santiago López,santiago.lopez1055@mailinator.com,Router Wi-Fi 6,2025-06-05,122.86,28,Bucaramanga,Credit Card,2025-06-25,Gold
+1056,Julián Rojas,julian.rojas1056@mailinator.com,4K Monitor,2025-06-19,219.73,41,Barranquilla,Debit Card,2025-06-30,Bronze
+1057,Valeria Herrera,valeria.herrera1057@mailinator.com,External SSD 1TB,2025-02-20,97.97,39,Cúcuta,PayPal,2025-02-24,Bronze
+1058,Mariana Guzmán,mariana.guzman1058@mailinator.com,Laptop Backpack,2025-06-28,41.67,34,Cúcuta,Debit Card,2025-06-30,Bronze
+1059,Sofía Gómez,sofia.gomez1059@mailinator.com,USB-C Hub,2025-02-26,30.57,37,Cúcuta,Credit Card,2025-03-03,Gold
+1060,Miguel Ramírez,miguel.ramirez1060@mailinator.com,Portable Monitor,2025-04-29,138.67,19,Barranquilla,PayPal,2025-05-20,Gold
+1061,Isabella Silva,isabella.silva1061@mailinator.com,Docking Station,2025-05-10,133.35,38,Medellín,PayPal,2025-05-23,Silver
+1062,Mariana Ríos,mariana.rios1062@mailinator.com,Laptop Stand,2025-03-12,45.20,23,Pereira,PayPal,2025-04-05,Silver
+1063,Gabriela Herrera,gabriela.herrera1063@mailinator.com,Wireless Charger,2025-03-15,23.80,31,Barranquilla,Credit Card,2025-03-22,Bronze
+1064,Sofía Herrera,sofia.herrera1064@mailinator.com,Graphics Tablet,2025-06-30,204.09,40,Bogotá,Debit Card,2025-06-30,Silver
+1065,Isabella Suárez,isabella.suarez1065@mailinator.com,Portable Monitor,2025-02-22,178.21,15,Barranquilla,PayPal,2025-03-20,Bronze
+1066,Esteban Restrepo,esteban.restrepo1066@mailinator.com,Graphics Tablet,2025-04-01,171.55,42,Pereira,Debit Card,2025-04-10,Silver
+1067,Sebastián Suárez,sebastian.suarez1067@mailinator.com,Docking Station,2025-05-05,140.80,31,Cúcuta,Debit Card,2025-05-12,Gold
+1068,Tomás Ortiz,tomas.ortiz1068@mailinator.com,Gaming Chair,2025-02-02,368.10,43,Barranquilla,Credit Card,2025-02-21,Silver
+1069,Natalia Restrepo,natalia.restrepo1069@mailinator.com,Wireless Mouse,2025-04-20,17.10,36,Cali,Debit Card,2025-04-24,Silver
+1070,Valentina Silva,valentina.silva1070@mailinator.com,Webcam HD,2025-04-08,46.88,28,Pereira,Debit Card,2025-04-16,Silver
+1071,Valeria Torres,valeria.torres1071@mailinator.com,Gaming Mousepad,2025-05-19,10.29,41,Bucaramanga,Credit Card,2025-05-20,Gold
+1072,Carlos Gómez,carlos.gomez1072@mailinator.com,Laptop Stand,2025-01-06,25.98,32,Medellín,Credit Card,2025-01-25,Bronze
+1073,Julián Ramírez,julian.ramirez1073@mailinator.com,Laptop Backpack,2025-04-30,86.87,32,Barranquilla,PayPal,2025-05-22,Gold
+1074,Manuela Ramírez,manuela.ramirez1074@mailinator.com,Gaming Chair,2025-01-28,392.94,41,Bogotá,Debit Card,2025-02-15,Gold
+1075,Tomás Ortiz,tomas.ortiz1075@mailinator.com,Graphics Tablet,2025-02-20,241.22,18,Medellín,Credit Card,2025-02-22,Gold
+1076,Luciana Vargas,luciana.vargas1076@mailinator.com,Docking Station,2025-05-25,132.50,23,Bogotá,Debit Card,2025-06-19,Gold
+1077,Felipe Morales,felipe.morales1077@mailinator.com,4K Monitor,2025-03-29,250.83,42,Bogotá,Debit Card,2025-03-29,Silver
+1078,Gabriela Silva,gabriela.silva1078@mailinator.com,Noise Cancelling Headphones,2025-05-14,146.61,19,Bucaramanga,Debit Card,2025-06-13,Gold
+1079,Nicolás Suárez,nicolas.suarez1079@mailinator.com,Gaming Mousepad,2025-06-01,16.97,30,Bogotá,Debit Card,2025-06-09,Silver
+1080,Miguel Silva,miguel.silva1080@mailinator.com,Laptop Backpack,2025-04-08,66.62,39,Bogotá,Debit Card,2025-04-18,Silver
+1081,Andrés Cárdenas,andres.cardenas1081@mailinator.com,Smartwatch,2025-03-08,170.96,30,Cali,PayPal,2025-03-18,Bronze
+1082,Paula López,paula.lopez1082@mailinator.com,4K Monitor,2025-04-15,213.79,44,Barranquilla,Credit Card,2025-04-30,Gold
+1083,Julián Cárdenas,julian.cardenas1083@mailinator.com,Portable Monitor,2025-01-24,231.01,35,Cali,PayPal,2025-02-02,Gold
+1084,Juan Cárdenas,juan.cardenas1084@mailinator.com,Ring Light,2025-04-19,41.24,46,Barranquilla,Debit Card,2025-05-12,Silver
+1085,Manuela Silva,manuela.silva1085@mailinator.com,Wireless Charger,2025-03-01,21.13,31,Bucaramanga,PayPal,2025-03-04,Gold
+1086,Andrés López,andres.lopez1086@mailinator.com,Smartwatch,2025-03-12,247.72,25,Barranquilla,PayPal,2025-04-04,Gold
+1087,Santiago Ramírez,santiago.ramirez1087@mailinator.com,Smartwatch,2025-04-03,159.25,28,Medellín,Debit Card,2025-04-08,Bronze
+1088,Carlos Suárez,carlos.suarez1088@mailinator.com,External SSD 1TB,2025-02-02,135.79,46,Pereira,Debit Card,2025-02-22,Bronze
+1089,Esteban Gómez,esteban.gomez1089@mailinator.com,Laptop Backpack,2025-05-03,47.06,20,Cali,Debit Card,2025-05-17,Bronze
+1090,Valeria Torres,valeria.torres1090@mailinator.com,Graphics Tablet,2025-05-28,173.76,52,Bucaramanga,Credit Card,2025-06-17,Bronze
+1091,Sofía Restrepo,sofia.restrepo1091@mailinator.com,External SSD 1TB,2025-03-05,86.81,24,Barranquilla,PayPal,2025-03-08,Bronze
+1092,Luciana Mendoza,luciana.mendoza1092@mailinator.com,Graphics Tablet,2025-04-24,167.58,29,Pereira,PayPal,2025-05-03,Silver
+1093,Santiago Restrepo,santiago.restrepo1093@mailinator.com,Docking Station,2025-01-26,65.42,34,Cali,PayPal,2025-02-25,Bronze
+1094,Andrés Herrera,andres.herrera1094@mailinator.com,Gaming Chair,2025-02-10,310.40,20,Cúcuta,Debit Card,2025-02-10,Gold
+1095,Alejandro Cárdenas,alejandro.cardenas1095@mailinator.com,External SSD 1TB,2025-03-15,82.61,29,Bogotá,PayPal,2025-04-06,Bronze
+1096,Ricardo Ríos,ricardo.rios1096@mailinator.com,Laptop Backpack,2025-02-20,69.67,50,Bogotá,PayPal,2025-03-05,Bronze
+1097,Gabriela Martínez,gabriela.martinez1097@mailinator.com,Wireless Charger,2025-01-19,31.53,36,Bucaramanga,PayPal,2025-01-20,Silver
+1098,Mariana Ramírez,mariana.ramirez1098@mailinator.com,Portable Monitor,2025-06-29,216.41,39,Cali,PayPal,2025-06-30,Gold
+1099,Julián Silva,julian.silva1099@mailinator.com,4K Monitor,2025-04-21,263.73,30,Bogotá,Credit Card,2025-05-14,Gold
+1100,Valeria Restrepo,valeria.restrepo1100@mailinator.com,Laptop Backpack,2025-06-22,87.05,39,Cali,PayPal,2025-06-30,Bronze

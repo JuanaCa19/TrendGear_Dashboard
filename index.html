@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TrendGear · Dashboard de Clientes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="tg-header">
+  <div class="tg-header__inner">
+    <a class="tg-logo" href="#top">
+      <span class="tg-logo__mark">TG</span>
+      <span class="tg-logo__text">TrendGear</span>
+    </a>
+
+    <button class="tg-burger" id="burgerBtn" aria-label="Abrir menú" aria-expanded="false" aria-controls="tgNav">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="tg-nav" id="tgNav">
+      <a href="#top" class="tg-nav__link is-active">Resumen</a>
+      <a href="#clientes" class="tg-nav__link">Clientes</a>
+      <a href="#" class="tg-nav__link" id="refreshLink">Actualizar datos</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <section class="tg-hero">
+    <p class="tg-eyebrow">Panel operativo · datos sintéticos</p>
+    <h1 class="tg-hero__title">Pulso de clientes,<br>en tiempo real.</h1>
+    <p class="tg-hero__sub">Cada fila es una compra. Cada compra, una señal. Este panel lee directo desde Firebase para que el equipo de TrendGear vea el comportamiento de la tienda sin esperar un reporte.</p>
+  </section>
+
+  <section class="tg-kpis" id="kpis" aria-label="Indicadores clave">
+    <div class="tg-kpi">
+      <span class="tg-kpi__label">Clientes cargados</span>
+      <span class="tg-kpi__value" id="kpiCount">—</span>
+    </div>
+    <div class="tg-kpi">
+      <span class="tg-kpi__label">Ingreso total</span>
+      <span class="tg-kpi__value" id="kpiTotal">—</span>
+    </div>
+    <div class="tg-kpi">
+      <span class="tg-kpi__label">Ticket promedio</span>
+      <span class="tg-kpi__value" id="kpiAvg">—</span>
+    </div>
+    <div class="tg-kpi">
+      <span class="tg-kpi__label">Edad promedio</span>
+      <span class="tg-kpi__value" id="kpiAge">—</span>
+    </div>
+  </section>
+
+  <section class="tg-table-section" id="clientes">
+    <div class="tg-table-section__head">
+      <h2>Clientes</h2>
+      <input type="search" id="searchInput" class="tg-search" placeholder="Buscar por nombre o ciudad…">
+    </div>
+
+    <div class="tg-table-wrap">
+      <table class="tg-table" id="clientsTable">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Producto</th>
+            <th>Fecha compra</th>
+            <th>Monto</th>
+            <th>Edad</th>
+            <th>Ciudad</th>
+            <th>Pago</th>
+            <th>Último ingreso</th>
+            <th>Membresía</th>
+          </tr>
+        </thead>
+        <tbody id="clientsTableBody">
+          <tr class="tg-table__loading-row">
+            <td colspan="10">Cargando datos desde Firebase…</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="tg-table__empty" id="emptyState" hidden>No se encontraron clientes con ese criterio.</p>
+  </section>
+</main>
+
+<footer class="tg-footer">
+  <p>TrendGear Dashboard · dataset sintético con fines de prototipado · <span id="footerCount">0</span> registros</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
